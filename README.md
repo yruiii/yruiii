@@ -1,7 +1,7 @@
 <h1>Hi, I'm yang rui! <br/>
 
 <h3> More about me🙋🏻‍♀️:</h3>
-<b>I am a Computer Science and Design student at the Singapore University of Technology and Design (SUTD), with a keen interest in Artificial Intelligence (AI) and Research and Development (R&D). My academic background combines technical proficiency with creative problem-solving skills, allowing me to approach challenges from analytical and innovative perspectives.  </b>
+<b>I am a Computer Science and Design student at the Singapore University of Technology and Design (SUTD), with a keen interest in Artificial Intelligence (AI) and Data analysis. My academic background combines technical proficiency with creative problem-solving skills, allowing me to approach challenges from analytical and innovative perspectives.  </b>
 
 <h2>👩🏻‍💻 Projects:</h2>
 
